@@ -1,0 +1,4 @@
+## II. Die Herausforderung
+### Von der Theorie zur erfolgreichen Scrum-Praxis
+
+Viele Unternehmen verstehen die Grundlagen von Scrum, doch die tatsächliche Implementierung stößt oft auf Hürden: Rollen werden missverstanden, Events sind ineffektiv, Artefakte bleiben ungenutzt, oder die Skalierung scheitert an fehlender Anpassung. Dies führt zu Frustration, suboptimalen Ergebnissen und dem Gefühl, dass "Scrum nicht funktioniert". Wie können Organisationen sicherstellen, dass sie Scrum nicht nur einführen, sondern es auch so leben, dass es sein volles Potenzial entfaltet und nachhaltig Wert liefert?

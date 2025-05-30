@@ -1,0 +1,3 @@
+## I. Executive Summary: Die Quintessenz
+
+Scrum ist das führende agile Framework, das Teams befähigt, in komplexen Umgebungen schnell, flexibel und wertorientiert Produkte zu entwickeln. Doch der wahre Erfolg liegt in der konsequenten und effektiven Umsetzung. Dieser Leitfaden bietet praxisnahe Tipps und Strategien zur Implementierung der Scrum-Rollen, Events und Artefakte und zeigt, wie Sie typische Herausforderungen meistern. Entdecken Sie mit unserem Scrum-Reifegradmodell, wie Sie den Stand Ihrer Scrum-Umsetzung selbst überprüfen, gezielte Maßnahmen zur kontinuierlichen Verbesserung ableiten und Ihr Team zu Bestleistungen führen.

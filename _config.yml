@@ -1,0 +1,20 @@
+# Site settings
+title: Agile Transformation
+description: ITIL v4 und Scrum > Das Power-Duo für modernes IT-Management - Wie Agilität und Struktur Hand in Hand gehen
+
+remote_theme: just-the-docs/just-the-docs@v0.6.0 
+
+# Just the Docs specific configurations (optional, siehe Theme-Doku)
+color_scheme: light
+search_enabled: true
+nav_external_links: true
+
+# Jekyll build settings
+# Exclude files/folders that Jekyll should ignore during the build
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules # If you ever use npm/yarn
+  - .git # Exclude the git folder itself
+  - .gitignore
+  - README.md # If you have a separate README for your repo
