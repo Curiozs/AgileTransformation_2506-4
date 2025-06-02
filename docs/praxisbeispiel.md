@@ -7,7 +7,7 @@ Um Ihnen den Einstieg in die Integration dieser leistungsstarken Frameworks zu e
 Um den Fortschritt Ihrer Scrum-Umsetzung transparent zu machen und datenbasierte Entscheidungen zur Optimierung zu ermöglichen, haben wir ein Scrum-Reifegradmodell entwickelt. Dieses Tool ermöglicht Ihnen eine Selbstbewertung des aktuellen Stands Ihrer agilen Praktiken und identiziert Bereiche mit dem größten Verbesserungspotenzial. Wichtige Erkenntnisse aus dem Reifegradmodell:
 - **Standortbestimmung:** Überprüfen Sie objektiv, wie gut Ihr Team die Scrum-Prinzipien, Rollen, Events und Artefakte umsetzt.
 - **Stärken und Schwächen:** Identizieren Sie klar, wo Ihr Team bereits exzellent ist und wo es noch Entwicklungsbedarf gibt.
-- **Gezielte Verbesserungsmaßnahmen:** Leiten Sie konkrete Schrie ab, um die Scrum-Reife Ihres Teams systematisch zu erhöhen und die Performance zu steigern.
+- **Gezielte Verbesserungsmaßnahmen:** Leiten Sie konkrete Schritte ab, um die Scrum-Reife Ihres Teams systematisch zu erhöhen und die Performance zu steigern.
 - **Kontinuierlicher Lernprozess:** Nutzen Sie das Modell wiederholt, um den Fortschritt zu verfolgen und eine Kultur der kontinuierlichen Verbesserung zu etablieren.
 
 **Der Beweis durch reale Erfolge:** John Deere's Agile Transformation Die Wirksamkeit einer konsequenten und datengetriebenen agilen Transformation lässt sich eindrucksvoll am Beispiel der John Deere Global IT-Gruppe belegen. Durch die Implementierung eines Agile Operating Models (AOM) auf Basis von Scrum und Scrum@Scale konnten signikante Verbesserungen erzielt werden:
@@ -17,7 +17,7 @@ Um den Fortschritt Ihrer Scrum-Umsetzung transparent zu machen und datenbasierte
 
 - **Return on Investment (ROI):** John Deere schätzt den ROI der Transformation auf über 100 Prozent 
 - **Output-Steigerung:** Die Produktivität stieg um 165 Prozent, was das ursprüngliche Ziel von 125 Prozent übertraf
-- **Reduzierung der Time to Market:** Die Zeit bis zur Markteinführung konnte um 63 Prozent reduziert werden, wobei das Ziel bei 40 
+- **Reduzierung der Time to Market:** Die Zeit bis zur Markteinführung konnte um 63 Prozent reduziert werden, wobei das Ziel bei 40  lag
 - **Verbesserung des Employee Net Promoter Score (eNPS):** Der eNPS, ein Indikator für die Teamgesundheit, verbesserte sich von einem Ausgangswert von 42 auf 65, was die angestrebte Steigerung um 20 Punkte deutlich übertraf 
 
 **Einzelne Teams zeigten sogar noch beeindruckendere Ergebnisse:**
