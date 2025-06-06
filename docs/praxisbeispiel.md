@@ -1,6 +1,6 @@
 
 ## IV. Praxisbeispiel: Das Scrum-Reifegradmodell
-*(verfügbar ab: 25.06.25)*
+*(verfügbar zu einem späteren Zeitpunkt)*
 ### Ihr Weg zur kontinuierlichen Verbesserung
 
 Um Ihnen den Einstieg in die Integration dieser leistungsstarken Frameworks zu erleichtern und die theoretischen Synergien greifbar zu machen, haben wir einen detaillierten "ITIL v4 & Scrum Mapping Guide" erstellt. Dieser Guide bietet eine visuelle Gegenüberstellung der wichtigsten Elemente beider Frameworks und zeigt anhand konkreter Beispiele, wie ITIL-Praktiken und Scrum-Events/Rollen effektiv miteinander verknüpft werden können. Er dient als praktischer Wegweiser für Ihr Team, um Reibungsverluste zu minimieren und den Wertfluss zu maximieren.
