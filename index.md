@@ -10,7 +10,7 @@ nav_order: 1
 
 Willkommen zu dieser Beitragsreihe zur agilen Transformation!
 
-In dem letzten Beitrag aus der Reihe, befassen wir uns mit der effektiven Implementierung von Scrum in Unternehmen, inklusive praktischer Tipps für Rollen, Events und Artefakte und stellen ein Scrum-Reifegradmodell zur Selbstbewertung und kontinuierlichen Verbesserung vor, untermauert durch reale Erfolgsmetriken.
+In dem letzten Beitrag aus der Reihe gehen wir den entscheidenden Schritt von der Theorie zur Praxis. Wir zeigen Ihnen, wie Sie den Erfolg Ihrer Scrum-Implementierung messbar machen und stellen Ihnen dafür ein interaktives Power BI Performance Dashboard zur datengesteuerten Analyse und kontinuierlichen Verbesserung vor, untermauert durch reale Erfolgsmetriken.
 
 Viel Spaß beim Lesen und Entdecken!
 
