@@ -1,17 +1,18 @@
 
-## IV. Praxisbeispiel: Das Scrum-Reifegradmodell
-*(verfügbar zu einem späteren Zeitpunkt)*
-### Ihr Weg zur kontinuierlichen Verbesserung
+## IV. Praxisbeispiel: Das Agile Performance Dashboard
+### Ihr Weg zur datengesteuerten Optimierung
 
-Um Ihnen den Einstieg in die Integration dieser leistungsstarken Frameworks zu erleichtern und die theoretischen Synergien greifbar zu machen, haben wir einen detaillierten "ITIL v4 & Scrum Mapping Guide" erstellt. Dieser Guide bietet eine visuelle Gegenüberstellung der wichtigsten Elemente beider Frameworks und zeigt anhand konkreter Beispiele, wie ITIL-Praktiken und Scrum-Events/Rollen effektiv miteinander verknüpft werden können. Er dient als praktischer Wegweiser für Ihr Team, um Reibungsverluste zu minimieren und den Wertfluss zu maximieren.
+Um den Fortschritt Ihrer agilen Transformation transparent zu machen und datenbasierte Entscheidungen zur Optimierung zu ermöglichen, haben wir ein interaktives Power BI Performance Dashboard entwickelt. Dieses Tool ersetzt vage Annahmen durch harte Fakten und ermöglicht Ihnen eine präzise Messung und Analyse Ihrer agilen Praktiken, um Bereiche mit dem größten Verbesserungspotenzial zu identifizieren.
 
-Um den Fortschritt Ihrer Scrum-Umsetzung transparent zu machen und datenbasierte Entscheidungen zur Optimierung zu ermöglichen, haben wir ein Scrum-Reifegradmodell entwickelt. Dieses Tool ermöglicht Ihnen eine Selbstbewertung des aktuellen Stands Ihrer agilen Praktiken und identiziert Bereiche mit dem größten Verbesserungspotenzial. Wichtige Erkenntnisse aus dem Reifegradmodell:
-- **Standortbestimmung:** Überprüfen Sie objektiv, wie gut Ihr Team die Scrum-Prinzipien, Rollen, Events und Artefakte umsetzt.
-- **Stärken und Schwächen:** Identizieren Sie klar, wo Ihr Team bereits exzellent ist und wo es noch Entwicklungsbedarf gibt.
-- **Gezielte Verbesserungsmaßnahmen:** Leiten Sie konkrete Schritte ab, um die Scrum-Reife Ihres Teams systematisch zu erhöhen und die Performance zu steigern.
-- **Kontinuierlicher Lernprozess:** Nutzen Sie das Modell wiederholt, um den Fortschritt zu verfolgen und eine Kultur der kontinuierlichen Verbesserung zu etablieren.
+Wichtige Erkenntnisse, die Sie mit dem Dashboard gewinnen:
+- **Ganzheitliche Performance-Messung:** Erfassen Sie den Business Impact Ihrer Transformation auf der Management-Ebene und tauchen Sie tief in die operativen Metriken von IT-Service-Management (ITIL) und Entwicklung (Scrum) ein.
+- **Zusammenhänge aufdecken:** Verstehen Sie, wie die Stabilität Ihrer IT-Prozesse (z.B. Change Success Rate) die Agilität Ihrer Entwicklungsteams (z.B. Sprint Velocity) beeinflusst.
+- **Engpässe identifizieren:** Analysieren Sie detaillierte Flow-Metriken wie Cycle Time und Lead Time, um Flaschenhälse in Ihren Prozessen zu finden und gezielt zu optimieren.
+- **Fortschritt transparent machen:** Nutzen Sie das Dashboard, um den Erfolg Ihrer Verbesserungsmaßnahmen kontinuierlich zu verfolgen und eine Kultur der datengestützten Optimierung zu etablieren.
 
-**Der Beweis durch reale Erfolge:** John Deere's Agile Transformation Die Wirksamkeit einer konsequenten und datengetriebenen agilen Transformation lässt sich eindrucksvoll am Beispiel der John Deere Global IT-Gruppe belegen. Durch die Implementierung eines Agile Operating Models (AOM) auf Basis von Scrum und Scrum@Scale konnten signikante Verbesserungen erzielt werden:
+**Der Beweis durch reale Erfolge: John Deere's Agile Transformation**
+
+Die Wirksamkeit einer konsequenten und datengetriebenen agilen Transformation lässt sich eindrucksvoll am Beispiel der John Deere Global IT-Gruppe belegen. Durch die Implementierung eines Agile Operating Models (AOM) auf Basis von Scrum und Scrum@Scale konnten signifikante Verbesserungen erzielt werden:
 
 > Statistische Daten entnommen aus der 2022er Casestudy von Scruminc zur John Deere
 
@@ -33,4 +34,5 @@ Um den Fortschritt Ihrer Scrum-Umsetzung transparent zu machen und datenbasierte
 
 Diese Zahlen unterstreichen, dass Scrum, richtig implementiert und skaliert, nicht nur die Teamgesundheit und Mitarbeiterzufriedenheit steigert, sondern auch messbare, positive Auswirkungen auf die Unternehmensleistung hat.
 
-**Ihr nächster Schritt:** Laden Sie das Reifegradmodell herunter, um den Stand Ihrer Scrum-Umsetzung zu überprüfen und fundierte Entscheidungen zur Prozessoptimierung zu treffen.
+
+**Ihr nächster Schritt:** Laden Sie unser Power BI Dashboard-Template herunter, um die Performance Ihrer agilen Transformation zu messen und fundierte Entscheidungen zur Prozessoptimierung zu treffen.

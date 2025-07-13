@@ -46,4 +46,3 @@ Transparenz, Inspektion, Adaption – diese empirischen Säulen sind nicht nur t
         - *Skalierung (bei Bedarf):* Wenn mehrere Teams an einem Produkt arbeiten,evaluieren Sie Skalierungs-Frameworks (z. B. LeSS, SAFe) basierend auf Ihren Bedürfnissen. Für die Abstimmung mehrerer Scrum-Teams an einem Produkt bietet sich beispielsweise das Nexus Framework an, das auf dem Scrum Guide aufbaut und die Komplexität bei der Skalierung reduziert.
         - *Organisatorische Anpassungen:* Scrum erfordert oft Änderungen in der gesamten Organisation (Budgetierung, HR, etc.).
         - *Kontinuierliche Anpassung:* Nutzen Sie Retrospektiven und Feedback, um die Scrum-Praktiken stetig zu verfeinern.
-        - *Messung der Reife:* Nutzen Sie unser Scrum-Reifegradmodell, um den Fortschritt zu verfolgen und gezielte Verbesserungen anzustoßen.
